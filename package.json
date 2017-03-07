@@ -1,0 +1,18 @@
+{
+  "name": "myExpress",
+  "version": "1.0.0",
+  "description": "Learn express",
+  "scripts": {
+    "test": "mocha -S"
+  },
+  "main": "index.js",
+  "author": "bluevn",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "supertest": "^3.0.0"
+  }
+}
